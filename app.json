@@ -118,7 +118,7 @@
       "PORT": {
          "description": "Port to use for your webhooks. Better leave this as it is on heroku",
          "required": false,
-         "value": ""
+         "value": "8443"
       },
       "URL": {
          "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
