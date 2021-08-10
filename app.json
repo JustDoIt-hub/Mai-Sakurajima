@@ -113,17 +113,17 @@
       "WEBHOOK": {
          "description": "Setting this to ANYTHING will enable webhooks. If you dont know how this works leave it as it is",
          "required": false,
-         "value": ""
+         "value": "ANYTHING"
       },
       "PORT": {
          "description": "Port to use for your webhooks. Better leave this as it is on heroku",
          "required": false,
-         "value": ""
+         "value": "10"
       },
       "URL": {
          "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
          "required": false,
-         "value": ""
+         "value": "https://kyokohori01.herokuapp.com/"
       },
       "No_LOAD": {
          "description": "Dont load these modules cause they shit, space separation",
